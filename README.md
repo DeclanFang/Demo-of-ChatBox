@@ -8,4 +8,5 @@ Still working on the frontend to make the ChatBox pretty!
 See the demo GIF below to learn how it works! 
 
 This is how the system notificates others when someone new enters the ChatBox: 
+
 ![image](https://github.com/DeclanFang/Demo-of-ChatBox/blob/master/DemoPre/Demo01.gif)
