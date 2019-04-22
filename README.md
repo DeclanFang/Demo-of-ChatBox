@@ -11,6 +11,8 @@ This is how the system notificates others when someone new enters the ChatBox:
 
 ![image](https://github.com/DeclanFang/Demo-of-ChatBox/blob/master/DemoPre/Demo01.gif)
 
-This is how the private conversation works in the ChatBox for now, we can see that Vincent has no idea what's going on in the ChatBox, enjoy the drama! 
+This is how the private conversation works in the ChatBox for now, by adding the "@Name:" part we can make the group chat becomes a private conversation under the ChatBox, the message can only be noticed by two people. 
+
+We can see that Vincent has no idea what's going on in the ChatBox, but Declan and Minnie have something to share. Enjoy the drama! 
 
 ![image](https://github.com/DeclanFang/Demo-of-ChatBox/blob/master/DemoPre/Demo02.gif)
