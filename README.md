@@ -3,9 +3,7 @@ The first version of ChatBox without frontend... What a pity!
 
 This is a chatroom based on the TCP connection with an original Server frame, which can implement the notification of people entering the room and private chatting between two users. Besides, we can have as many clients as we want.
 
-Still working on the frontend to make the ChatBox pretty! 
-
-See the demo GIF below to learn how it works! 
+Still working on the frontend to make the ChatBox pretty. First, see the demo GIF below to learn how it works! 
 
 This is how the system notificates others when someone new enters the ChatBox: 
 
