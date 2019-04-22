@@ -13,4 +13,4 @@ This is how the system notificates others when someone new enters the ChatBox:
 
 This is how the private conversation works in the ChatBox for now, we can see that Vincent has no idea what's going on in the ChatBox, enjoy the drama! 
 
-![image](https://github.com/DeclanFang/Demo-of-ChatBox/blob/master/DemoPre/Demo02.gif)
+![image]()
