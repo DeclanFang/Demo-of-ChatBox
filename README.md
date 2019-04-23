@@ -5,7 +5,7 @@ This is a chatroom based on the TCP connection with an original Server frame, wh
 
 Still working on the frontend to make the ChatBox pretty. First, see the demo GIF below to learn how it works! 
 
-This is how the system notificates others when someone new enters the ChatBox: 
+This is how the system notificates others when someone new enters the ChatBox, others will also receive a notification: 
 
 ![image](https://github.com/DeclanFang/Demo-of-ChatBox/blob/master/DemoPre/Demo01.gif)
 
